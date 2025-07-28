@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Laksh, an engineering student passionate about building meaningful tech solutions. I enjoy working across the full stack and love experimenting with new tools, frameworks, and technologies. Whether it’s mobile apps with Flutter or backend systems, I’m always eager to learn and create.<br>🔭 Currently working on: Smart mobile apps and useful dev tools.<br>💡 Interests: Flutter, Firebase, Python, C/C++.<br>💬 Ask me about: App development, college tech projects, or anything you're curious about.<br>📫 Reach me at: https://www.linkedin.com/in/lakshjain22/<br>⚡ Fun fact: I enjoy turning ideas into working prototypes and simplifying tech for everyone!
+Hi there! I'm Laksh, an engineering student passionate about building meaningful tech solutions. I enjoy working across the full stack and love experimenting with new tools, frameworks, and technologies. Whether it’s mobile apps with Flutter or backend systems, I’m always eager to learn and create.<br>🔭 Currently working on: Smart mobile apps and useful dev tools.<br>💡 Interests: Flutter, Firebase, Python, C/C++.<br>💬 Ask me about: App development, college tech projects, or anything you're curious about.<br>📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/lakshjain22/)<br>⚡ Fun fact: I enjoy turning ideas into working prototypes and simplifying tech for everyone!
 
 
 ## 🌐 Socials:
