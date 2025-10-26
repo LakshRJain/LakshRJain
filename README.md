@@ -4,6 +4,8 @@ Hi there! I'm Laksh, an engineering student passionate about building meaningful
 ## 🏆 Open Source Contributions
 
 - [Supabase](https://github.com/supabase/supabase/pull/37336) — Improved documentation for `auth.uid()` behavior in RLS policies.
+  
+[![Contributed to Supabase](https://img.shields.io/badge/Supabase-Contributor-green?logo=supabase)](https://github.com/supabase/supabase/pull/37336)
 
 
 ## 🌐 Socials:
