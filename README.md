@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi there! I'm Laksh, an engineering student passionate about building meaningful tech solutions. I enjoy working across the full stack and love experimenting with new tools, frameworks, and technologies. Whether it’s mobile apps with Flutter or backend systems, I’m always eager to learn and create.<br>🔭 Currently working on: Smart mobile apps and useful dev tools.<br>💡 Interests: Flutter, Firebase, Python, C/C++.<br>💬 Ask me about: App development, college tech projects, or anything you're curious about.<br>📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/lakshjain22/)<br>⚡ Fun fact: I enjoy turning ideas into working prototypes and simplifying tech for everyone!
 
+## 🏆 Open Source Contributions
+
+- [Supabase](https://github.com/supabase/supabase/pull/37336) — Improved documentation for `auth.uid()` behavior in RLS policies.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshjain22/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainlaksh2006@gmail.com) 
